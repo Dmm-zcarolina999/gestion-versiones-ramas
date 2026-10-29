@@ -1,3 +1,3 @@
 # Guia del proyecto
-Estado: borrador
+Estado: aprobado
 Autor: equipo
